@@ -1,0 +1,26 @@
+#include <iostream >
+#include <string >
+
+using namespace std;
+
+function Test {
+         double num = 34.23F;
+};
+
+int main () {
+
+         int num2 ;
+         num2 = 13781378;
+
+         char First = ' M', stNum = ' \0';
+
+         string name = " Mahsa \n ";
+        //testing string highliting
+
+         /*
+         This is a multi-line comment
+         */
+
+         return 0;
+
+}
